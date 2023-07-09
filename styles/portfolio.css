@@ -129,4 +129,15 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+.about-info{
+
+}
+#w.i.desc{
+    padding: 30px 150px;
+
+}
+.skills-container{
+    display: flex;
+    margin-top: 150px;
+}
 
